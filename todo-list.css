@@ -91,10 +91,13 @@ body {
     
   }
   .deleteButton{
-    font-size: 12px;
+    font-size: 10px;
   }
   .taskDate{
-    font-size: 12px;
+    font-size: 10px;
+  }
+  body{
+    justify-content: left;
   }
 
 }
