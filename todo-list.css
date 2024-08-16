@@ -26,6 +26,7 @@ body {
 .tasksShow{
   margin-top: 25px;
   display: grid;
+  align-items: center;
   grid-template-columns: 300px 100px 100px;
   column-gap: 50px;
   row-gap: 25px;
