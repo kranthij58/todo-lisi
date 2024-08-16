@@ -20,10 +20,7 @@ body {
   display: grid;
   grid-template-columns: 300px 100px 100px;
   column-gap: 50px;
- 
   z-index: 5;
- 
- 
 }
   
 .tasksShow{
@@ -51,7 +48,7 @@ body {
   
   border-radius: 5px;
   border:none;
-  padding :10px;
+  
 }
 .Add-button{
   background-color:  #f2fcfc;
@@ -96,7 +93,9 @@ body {
   .taskDate{
     font-size: 10px;
   }
- 
+ .Todo-date{
+  width: 50px;
+ }
 
 }
 
