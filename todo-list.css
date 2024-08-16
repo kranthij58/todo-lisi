@@ -90,9 +90,7 @@ body {
   .deleteButton{
     font-size: 10px;
   }
-  .taskDate,.taskName{
-    font-size: 11px;
-  }
+  
   .Add-button{
     font-size: 8px;
   }
