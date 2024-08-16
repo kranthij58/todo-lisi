@@ -90,7 +90,7 @@ body {
   .deleteButton{
     font-size: 10px;
   }
-  .taskDate{
+  .taskDate,.Add-button{
     font-size: 10px;
   }
  .Todo-date{
